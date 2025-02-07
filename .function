@@ -1,0 +1,8 @@
+
+venv(){ pyenv virtualenv $1 }
+commit(){
+  git commit -$1 "$2"
+}
+venvs(){ pyenv virtualenvs }
+activate(){ pyenv activate $1 }
+versions(){ pyenv versions }
