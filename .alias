@@ -55,7 +55,7 @@ alias deactivate="pyenv deactivate"
 
 #alias mv="/home/imron/my-code/python_developer/project/project-cli/CLI/move.py"
 alias touch="/home/imron/my-code/python_developer/project/project-cli/CLI/touch.py"
-alias ping="/home/imron/my-code/python_developer/project/project-cli/CLI/ping.py"
+#alias ping="/home/imron/my-code/python_developer/project/project-cli/CLI/ping.py"
 alias start-nginx="sudo systemctl enable nginx && sudo systemctl start nginx"
 alias start-httpd="sudo systemctl enable httpd && sudo systemctl start httpd"
 alias status-nginx="systemctl status nginx"
