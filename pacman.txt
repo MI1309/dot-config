@@ -591,6 +591,7 @@ lame
 lcms2
 ldb
 leancrypto
+less
 lib32-acl
 lib32-audit
 lib32-brotli
@@ -773,6 +774,7 @@ libp11-kit
 libpcap
 libpciaccess
 libpgm
+libpipeline
 libpipewire
 libplacebo
 libplist
@@ -894,6 +896,7 @@ m4
 magic-wormhole
 mailcap
 make
+man-db
 mariadb
 mariadb-clients
 mariadb-libs
