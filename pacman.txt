@@ -1,7 +1,6 @@
 a52dec
 abseil-cpp
 acl
-ada
 addinclude
 addinclude-debug
 adwaita-cursors
@@ -14,6 +13,9 @@ alsa-card-profiles
 alsa-lib
 alsa-topology-conf
 alsa-ucm-conf
+android-sdk
+android-sdk-build-tools
+android-sdk-platform-tools
 android-tools
 android-udev
 ant
@@ -52,7 +54,6 @@ bluez
 bluez-libs
 bluez-utils
 boost-libs
-botan2
 breeze-icons
 brightnessctl
 brotli
@@ -75,11 +76,13 @@ chaotic-keyring
 chaotic-mirrorlist
 chromium
 cifs-utils
+clang
 cliphist
 cloudflared
 cmake
 cmatrix
 code
+compiler-rt
 composefs
 composer
 containerd
@@ -97,7 +100,6 @@ db5.3
 dbus
 dbus-broker
 dbus-broker-units
-dbus-glib
 dbus-units
 dconf
 debugedit
@@ -152,6 +154,7 @@ firefox
 flac
 flatpak
 flex
+flutter-bin
 fmt
 fontconfig
 foremost
@@ -466,7 +469,6 @@ hidapi
 highway
 hslua-cli
 htop
-hunspell
 hwdata
 hwloc
 hydra
@@ -651,7 +653,6 @@ libdbusmenu-gtk3
 libdca
 libde265
 libdecor
-libdispatch
 libdisplay-info
 libdovi
 libdrm
@@ -848,7 +849,9 @@ linux-api-headers
 linux-firmware
 linux-firmware-whence
 linux-headers
+lld
 llhttp
+llvm
 llvm-libs
 lm_sensors
 lmdb
@@ -874,6 +877,7 @@ mdadm
 media-player-info
 medusa
 mesa
+mesa-utils
 metasploit
 minizip
 mkinitcpio
@@ -897,6 +901,7 @@ networkmanager
 nginx
 ngrok
 nikto
+ninja
 nm-connection-editor
 nmap
 node-gyp
@@ -920,7 +925,6 @@ onlyoffice-bin
 open
 openal
 opencore-amr
-openh264
 openjpeg2
 openmpi
 openpmix
@@ -945,6 +949,7 @@ pangomm
 pangomm-2.48
 parallel
 parted
+passenger
 patch
 pavucontrol
 pciutils
@@ -1152,7 +1157,6 @@ qt5ct
 qt6-5compat
 qt6-base
 qt6-declarative
-qt6-imageformats
 qt6-multimedia
 qt6-multimedia-ffmpeg
 qt6-shadertools
@@ -1170,7 +1174,6 @@ reaver
 rhash
 ripgrep
 ripgrep-all
-rnnoise
 rofi-wayland
 rpmextract
 rtkit
@@ -1178,6 +1181,7 @@ rubberband
 ruby
 ruby-bundler
 ruby-erb
+ruby-rack
 rubygems
 run-parts
 runc
@@ -1235,10 +1239,8 @@ tar
 task
 tcl
 tdb
-telegram-desktop
 tevent
 texinfo
-thunderbird
 tinysparql
 tk
 tomlplusplus
@@ -1261,6 +1263,7 @@ uchardet
 udiskie
 udisks2
 unibilium
+unionfs-fuse
 unrar
 unzip
 upower
@@ -1278,6 +1281,7 @@ vlc-cli
 vlc-gui-qt
 vlc-plugin-a52dec
 vlc-plugin-alsa
+vlc-plugin-archive
 vlc-plugin-dav1d
 vlc-plugin-dbus
 vlc-plugin-dbus-screensaver
@@ -1289,6 +1293,7 @@ vlc-plugin-journal
 vlc-plugin-jpeg
 vlc-plugin-lua
 vlc-plugin-mpg123
+vlc-plugin-ogg
 vlc-plugin-opus
 vlc-plugin-png
 vlc-plugin-pulse
