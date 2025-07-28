@@ -166,6 +166,7 @@ fuse-common
 fuse-overlayfs
 fuse2
 fuse3
+fvm-git
 fzf
 gawk
 gc
@@ -985,6 +986,7 @@ poppler
 poppler-qt6
 popt
 portaudio
+postgresql
 postgresql-libs
 pps-tools
 procps-ng

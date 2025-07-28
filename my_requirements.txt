@@ -109,7 +109,7 @@ redis==6.2.0
 referencing==0.36.2
 requests==2.32.4
 requests-toolbelt==1.0.0
-rich==14.0.0
+rich==14.1.0
 rpds-py==0.22.3
 SecretStorage==3.3.3
 service-identity==24.2.0
@@ -129,7 +129,7 @@ typing_extensions==4.14.1
 udiskie==2.5.7
 urllib3==2.5.0
 userpath==1.9.2
-uv==0.8.2
+uv==0.8.3
 virtualenv==20.28.0
 volatility3==2.11.0
 webencodings==0.5.1
