@@ -97,6 +97,7 @@ cryptsetup
 curl
 dav1d
 db5.3
+dbeaver
 dbus
 dbus-broker
 dbus-broker-units
@@ -198,6 +199,7 @@ glslang
 glu
 gmp
 gnu-free-fonts
+gnu-netcat
 gnulib-l10n
 gnupg
 gnutls
@@ -1322,7 +1324,6 @@ wget
 which
 whois
 wifite
-wine
 wireless_tools
 wireplumber
 wireshark-cli
