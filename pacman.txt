@@ -104,6 +104,7 @@ dbus-broker-units
 dbus-units
 dconf
 debugedit
+debuginfod
 default-cursors
 desktop-file-utils
 device-mapper
@@ -214,6 +215,7 @@ gpgme
 gpgmepp
 gpm
 gpsd
+gradle
 graphene
 graphite
 grep
@@ -506,9 +508,12 @@ java-runtime-common
 jbigkit
 jdk-openjdk
 jdk17-openjdk
+jdk8-openjdk
 jemalloc
 john
 jq
+jre8-openjdk
+jre8-openjdk-headless
 json-c
 json-glib
 jsoncpp
@@ -712,6 +717,7 @@ libmaxminddb
 libmd
 libmemcached-awesome
 libmfx
+libmicrohttpd
 libmm-glib
 libmng
 libmnl
@@ -997,6 +1003,7 @@ proxychains-ng
 prrte
 psmisc
 pugixml
+pwndbg
 pyenv
 python
 python-aniso8601
@@ -1005,6 +1012,7 @@ python-attrs
 python-autobahn
 python-autocommand
 python-automat
+python-bcrypt
 python-blinker
 python-build
 python-cachecontrol
@@ -1017,10 +1025,12 @@ python-chardet
 python-charset-normalizer
 python-cleo
 python-click
+python-colored-traceback
 python-constantly
 python-cramjam
 python-crashtest
 python-cryptography
+python-dateutil
 python-distlib
 python-distro
 python-dnspython
@@ -1048,6 +1058,7 @@ python-i3ipc
 python-idna
 python-incremental
 python-installer
+python-intervaltree
 python-iterable-io
 python-itsdangerous
 python-jaraco.classes
@@ -1074,6 +1085,7 @@ python-mistune
 python-more-itertools
 python-msgpack
 python-packaging
+python-paramiko
 python-pathspec
 python-pbs-installer
 python-pefile
@@ -1082,20 +1094,27 @@ python-pip
 python-pkginfo
 python-platformdirs
 python-pluggy
+python-plumbum
 python-poetry
 python-poetry-core
 python-poetry-plugin-export
 python-psutil
+python-pt
+python-ptrace
 python-ptyprocess
+python-pwntools
 python-pyaml
 python-pyasn1
 python-pyasn1-modules
 python-pycparser
 python-pycryptodome
+python-pyelftools
 python-pygments
 python-pynacl
 python-pyopenssl
 python-pyproject-hooks
+python-pyserial
+python-pysocks
 python-pytz
 python-qrcode
 python-rapidfuzz
@@ -1105,6 +1124,7 @@ python-requests
 python-requests-toolbelt
 python-rich
 python-rpds-py
+python-rpyc
 python-secretstorage
 python-service-identity
 python-setuptools
@@ -1112,7 +1132,9 @@ python-shellingham
 python-six
 python-snappy
 python-sniffio
+python-sortedcontainers
 python-spake2
+python-tabulate
 python-tomli-w
 python-tomlkit
 python-tqdm
@@ -1121,6 +1143,7 @@ python-twisted
 python-txaio
 python-txtorcon
 python-typing_extensions
+python-unicorn
 python-urllib3
 python-userpath
 python-uv
@@ -1179,6 +1202,7 @@ rhash
 ripgrep
 ripgrep-all
 rofi-wayland
+ropgadget
 rpmextract
 rtkit
 rubberband
@@ -1267,6 +1291,7 @@ uchardet
 udiskie
 udisks2
 unibilium
+unicorn
 unionfs-fuse
 unrar
 unzip
