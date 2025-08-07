@@ -498,6 +498,7 @@ icu
 imagemagick
 inetutils
 iniparser
+inotify-tools
 iproute2
 iptables
 iputils
@@ -906,6 +907,7 @@ nano
 ncurses
 neovim
 net-tools
+netbeans
 nettle
 network-manager-applet
 networkmanager
@@ -1274,6 +1276,7 @@ tevent
 texinfo
 tinysparql
 tk
+tmux
 tomlplusplus
 tor
 tpm2-tss
