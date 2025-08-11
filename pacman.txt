@@ -904,6 +904,7 @@ msgpack-c
 mtdev
 mujs
 nano
+nasm
 ncurses
 neovim
 net-tools
