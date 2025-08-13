@@ -97,3 +97,5 @@ alias f="fvm flutter"
 alias fls="fvm list"
 
 alias crdart="d create"
+alias commit="git commit -am"
+alias push="git push"
