@@ -134,6 +134,7 @@ electron
 electron34
 electron35
 electron36
+electron37
 enchant
 ethtool
 ettercap-gtk
@@ -145,6 +146,11 @@ eza
 faad2
 fakeroot
 fastfetch
+fcitx5
+fcitx5-configtool
+fcitx5-gtk
+fcitx5-mozc
+fcitx5-qt
 ffmpeg
 ffmpeg4.4
 ffmpegthumbs
@@ -511,6 +517,7 @@ java-runtime-common
 jbigkit
 jdk-openjdk
 jdk17-openjdk
+jdk21-openjdk
 jdk8-openjdk
 jemalloc
 john
