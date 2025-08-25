@@ -13,6 +13,7 @@ alsa-card-profiles
 alsa-lib
 alsa-topology-conf
 alsa-ucm-conf
+android-apktool
 android-sdk
 android-sdk-build-tools
 android-sdk-platform-tools
