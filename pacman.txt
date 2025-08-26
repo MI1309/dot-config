@@ -288,6 +288,7 @@ haskell-byteorder
 haskell-call-stack
 haskell-case-insensitive
 haskell-cassava
+haskell-cborg
 haskell-cereal
 haskell-citeproc
 haskell-cmdargs
@@ -330,6 +331,7 @@ haskell-generically
 haskell-glob
 haskell-gridtables
 haskell-haddock-library
+haskell-half
 haskell-hashable
 haskell-hourglass
 haskell-hslua
@@ -406,6 +408,7 @@ haskell-safe-exceptions
 haskell-scientific
 haskell-semialign
 haskell-semigroupoids
+haskell-serialise
 haskell-servant
 haskell-servant-server
 haskell-sha
