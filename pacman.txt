@@ -328,6 +328,7 @@ haskell-fast-logger
 haskell-file-embed
 haskell-foldable1-classes-compat
 haskell-generically
+haskell-generics-sop
 haskell-glob
 haskell-gridtables
 haskell-haddock-library
@@ -360,6 +361,7 @@ haskell-http2
 haskell-hunit
 haskell-indexed-traversable
 haskell-indexed-traversable-instances
+haskell-integer-conversion
 haskell-integer-logarithms
 haskell-iproute
 haskell-ipynb
@@ -436,6 +438,7 @@ haskell-temporary
 haskell-texmath
 haskell-text-conversions
 haskell-text-icu
+haskell-text-iso8601
 haskell-text-short
 haskell-th-abstraction
 haskell-th-compat
