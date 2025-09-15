@@ -1221,7 +1221,7 @@ reaver
 rhash
 ripgrep
 ripgrep-all
-rofi-wayland
+rofi
 ropgadget
 rpmextract
 rtkit

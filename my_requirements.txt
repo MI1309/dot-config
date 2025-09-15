@@ -20,7 +20,7 @@ colored-traceback==0.3.0
 constantly==23.10.4
 cramjam==2.11.0
 crashtest==0.4.1
-cryptography==45.0.6
+cryptography==45.0.7
 distlib==0.4.0
 distro==1.9.0
 dnspython==2.7.0
@@ -60,7 +60,7 @@ jaraco.text==4.0.0
 jeepney==0.9.0
 Jinja2==3.1.6
 jsonschema==4.25.1
-jsonschema-specifications==2025.4.1
+jsonschema-specifications==2025.9.1
 keyring==25.6.0
 keyutils==0.6
 lark==1.2.2
@@ -117,7 +117,7 @@ python-xlib==0.33
 pytz==2025.2
 PyYAML==6.0.2
 qrcode==8.2
-RapidFuzz==3.14.0
+RapidFuzz==3.14.1
 redis==6.4.0
 referencing==0.36.2
 requests==2.32.5

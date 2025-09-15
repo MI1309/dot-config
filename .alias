@@ -1,3 +1,4 @@
+alias arun="ant compile && ant run"
 alias cr-react="sudo /usr/bin/create-react-app"
 alias cr-cron="bash /home/imron/my-code/Shell_developer/filebash/create-cron.bash"
 alias py="python"
