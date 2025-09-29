@@ -136,6 +136,7 @@ electron34
 electron35
 electron36
 electron37
+electron38
 enchant
 ethtool
 ettercap-gtk
@@ -205,6 +206,7 @@ glibmm
 glibmm-2.68
 glslang
 glu
+glycin
 gmp
 gnu-free-fonts
 gnu-netcat
@@ -379,6 +381,7 @@ haskell-monad-control
 haskell-mono-traversable
 haskell-network
 haskell-network-byte-order
+haskell-network-control
 haskell-network-uri
 haskell-old-locale
 haskell-old-time
@@ -678,6 +681,7 @@ libdbusmenu-gtk3
 libdca
 libde265
 libdecor
+libdeflate
 libdisplay-info
 libdovi
 libdrm
@@ -700,6 +704,7 @@ libfdk-aac
 libffi
 libfontenc
 libfreeaptx
+libfyaml
 libgcrypt
 libgirepository
 libgit2
